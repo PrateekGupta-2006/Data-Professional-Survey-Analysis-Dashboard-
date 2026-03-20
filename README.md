@@ -32,10 +32,8 @@ Attributes include:
 
 ## Dashboard
 
-The Power BI dashboard file is available in the `dashboard/` folder.
-
-You can also view it online here:
-[Add your Power BI link here]
+You can view it here:
+https://drive.google.com/file/d/1uoMobaAJxnooyVkAOin6flV3dGZ2BZaS/view?usp=sharing
 
 
 ## Tools Used
