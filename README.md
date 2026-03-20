@@ -17,8 +17,7 @@ The dashboard transforms raw survey data into meaningful insights that are easy 
 • Derived insights from real-world survey data  
 
 ## Dataset
-
-The dataset is available in the `data/` folder.
+https://docs.google.com/spreadsheets/d/1cXtRAIlW3jcjSrWLqV908qxtJML_6BkZ/edit?usp=sharing&ouid=115806192870942970902&rtpof=true&sd=true
 
 Attributes include:
 • Country  
