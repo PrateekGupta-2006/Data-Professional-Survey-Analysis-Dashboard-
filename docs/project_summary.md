@@ -22,5 +22,7 @@ The dashboard provides clear insights that help:
 
 ## Learnings
 • Data cleaning using Excel
+
 • Data visualization using Power BI
+
 • Creating interactive dashboards
