@@ -32,8 +32,7 @@ Attributes include:
 
 ## Dashboard
 
-You can view it here:
-https://drive.google.com/file/d/1uoMobaAJxnooyVkAOin6flV3dGZ2BZaS/view?usp=sharing
+You can view it in the dashboard folder.
 
 
 ## Tools Used
