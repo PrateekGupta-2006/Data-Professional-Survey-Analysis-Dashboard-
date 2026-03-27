@@ -1,7 +1,7 @@
 # Data Professional Survey Analysis Dashboard
 
 ## About the Project
-This project presents an interactive Power BI dashboard built using a survey dataset of data professionals. The goal of the project is to analyze real world trends in salaries, job roles, programming languages, and work-life balance.
+This project presents an interactive Power BI dashboard built using a survey dataset of data professionals. The goal of the project is to analyze real world trends in salaries, job roles, programming languages, and work life balance.
 
 The dashboard transforms raw survey data into meaningful insights that are easy to understand and useful for students, job seekers, and professionals interested in the data field.
 
